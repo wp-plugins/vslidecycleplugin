@@ -8,9 +8,9 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Requires at least: 3.0
 Last Version Wordpress
 
-Tested up to: 3.2.1
+Tested up to: 3.4.2
 
-Stable tag: 1.1
+Stable tag: 1.2
 
 
 Tags:  simple,plugin,slideshow,rotator,jQuery,Cycle,panel,media,image
@@ -18,11 +18,11 @@ Tags:  simple,plugin,slideshow,rotator,jQuery,Cycle,panel,media,image
 == Description ==
 Visit: <a href=http://viniwp.wordpress.com>http://viniwp.wordpress.com</a><br>
 English: Simple plugin that puts slideshow in your Wordpress blog.
-Version 1.0 was tested with version 3.2.1 of Wordpress and it worked properly, was also tested in Internet Explorer 7.0 and it worked without problems.
+Version 1.0 was tested with version 3.4.2 of Wordpress and it worked properly, was also tested in Internet Explorer 7.0 and it worked without problems.
 This plugin uses the jQuery Cycle in its structure.
 ---------------------------------------------------------------------------
 Portugues: Simples plugin que coloca slideshow em seu blog Wordpress.
-A versao 1.0 foi testada com a versao 3.2.1 do Wordpress e funcionou corretamente, tambem foi testada no Internet Explorer 7.0 e funcionou sem problemas.
+A versao 1.0 foi testada com a versao 3.4.2 do Wordpress e funcionou corretamente, tambem foi testada no Internet Explorer 7.0 e funcionou sem problemas.
 Este plugin usa o jQuery Cycle em sua estrutura.
 ---------------------------------------------------------------------------
 [Donation Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QKQ42SA5DCUF4 "Donation Paypal")
