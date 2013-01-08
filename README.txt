@@ -62,7 +62,7 @@ none.
 == Changelog ==
 
 =2.0=
-*Bugfix: Fox error during installation
+* Bugfix: Fix error during installation
 
 
 =1.1=
