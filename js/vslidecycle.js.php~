@@ -1,0 +1,15 @@
+<?php
+$effect =  $_GET['e'];
+$button = $_GET['b'];
+print "jQuery('.vslideCyclePlugin').cycle({
+                  fx: '" . ($conf->effect != null ? $conf->effect : 'blindX') . "',
+                  timeout:3000,
+                  pager:'#vslidecyclenav',
+                  prev: '#prev',
+                  next: '#next',
+                  pagerEvent: 'click',
+                  //fastOnEvent: true
+                  }); " .
+        ($conf->button ? ' jQuery(\'#vslidecyclebar\').width( jQuery(\'#vslidecyclecontainer\').width()+1);' : '');
+
+?>
